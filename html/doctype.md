@@ -1,6 +1,6 @@
 # HTML5 な doctype 宣言
 
-html5 の doctype 宣言とする．
+html5 の doctype 宣言を使用する
 
 かんたん
 

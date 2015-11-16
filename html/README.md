@@ -1,3 +1,3 @@
 # HTML の書き方
 
-- HTML5 な doctype 宣言
+HTML を書くときに注意することなど
