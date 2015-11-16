@@ -1,4 +1,4 @@
 * [Introduction](README.md)
-* [docs](docs/README.md)
-  * [first](docs/first.md) 
-  * [second](docs/second.md)
+* [HTML の書き方](html/README.md)
+  * [doctype 宣言](html/doctype.md) 
+  
